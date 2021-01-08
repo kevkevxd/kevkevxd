@@ -2,7 +2,7 @@
 Hi there! I'm Kevin. 👋
 
 
-- ⚡ I’m currently working on deploying projects that I've built recently.<br>
+- ⚡ I’m currently working on deploying projects I built.<br>
         [K-World 2D SideScroller](https://k-world.herokuapp.com/) (Work in progress)
 
 - 🌱 I’m currently learning React with hooks and data structures. 
